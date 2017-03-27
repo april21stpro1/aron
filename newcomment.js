@@ -105,6 +105,6 @@ function recent_comments(w2b)
 	commentsHtml+="<span style=\"font-size:10px;
 	display:block;
 	text-align:right;
-	"+hideCSS+"\">Widget by<a href=\"//fb.me/aron21.vn\">Aron</a></span>";
+	"+hideCSS+"\">Widget by<a href=\"http://dongvietblog.blogspot.com/\">Dong Viet.Blog</a></span>";
 	document.write(commentsHtml)
 }
